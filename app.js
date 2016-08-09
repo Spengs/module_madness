@@ -1,7 +1,6 @@
 var http = require('http');
 var numbers = require('./numbers.js');
-var convert = require('./numbers.js');
-var balance = require('./numbers.js');
+
 
 
 http.createServer(function (req, res){
